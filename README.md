@@ -11,11 +11,8 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-  
-	<br>
-  <![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)/>
-  <![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)/>
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+  ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
   <br>
 </div>
 <div align=center>
@@ -43,9 +40,6 @@
 </div>
 <div align=center>
 	<br>
-
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-<img src="https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=PhpStorm&logoColor=white"/>
 div
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlatldus&layout=compact"><br><br>
