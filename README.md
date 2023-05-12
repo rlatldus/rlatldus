@@ -10,11 +10,12 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-  ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-  <br>
+	<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
+  	<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 </div>
+	<br>
+
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
@@ -23,6 +24,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+<br>
 <div align=center>
 	<p>🎨 Design & Portfolio 🎨</p>
 </div>
@@ -40,7 +42,7 @@
 </div>
 <div align=center>
 	<br>
-div
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlatldus&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=rlatldus&show_icons=true">
+</div>
