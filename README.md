@@ -52,3 +52,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlatldus&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=rlatldus&show_icons=true">
 </div>
+<div align=center>
+	
+  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:EEFF00,100:0FC700&height=150)
+  
+</div>
