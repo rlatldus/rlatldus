@@ -14,7 +14,7 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-  	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
+  	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
 	<br>
   	<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 	<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
@@ -39,13 +39,16 @@
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 	<br>
+	
+<img src="https://img.shields.io/badge/Pigma-31A8FF?style=flat-square&logo=Pigma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	<br>
 </div>
+<br>
+<hr/>
+<br>
 <div align=center>
-	<br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlatldus&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=rlatldus&show_icons=true">
 </div>
