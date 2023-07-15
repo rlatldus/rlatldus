@@ -22,14 +22,6 @@
 
 </div>
 	<br>
-
-<div align=center>
-	<p>🛠 Tools 🛠</p>
-</div>
-<div align=center>
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-</div>
 <br>
 <div align=center>
 	<p>🎨 Design & Portfolio 🎨</p>
@@ -50,7 +42,6 @@
 <br>
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlatldus&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=rlatldus&show_icons=true">
 </div>
 <div align=center>
 	
